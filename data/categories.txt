@@ -1,0 +1,2 @@
+1,Beverages,Drinks and juices
+2,Dairy,Milk  cheese  yogurt

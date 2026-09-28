@@ -1,0 +1,3 @@
+1,Juhayna,01000000000,sales@juhayna.com,Cairo
+2,Edita,01111111111,contact@edita.com,Giza
+3,Nestle,01234567890,nestle@gmail.com,Cairo
