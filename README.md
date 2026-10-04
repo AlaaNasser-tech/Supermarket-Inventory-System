@@ -34,7 +34,7 @@ The **Inventory Management System (IMS)** is a multi-role solution designed to a
 * **Accounts & Orders:** User registration, profile updates, purchase request processing, and invoice generation.
 * **Notifications:** Automated email confirmations for every purchase order placed.
 
-<img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/468daee8-5a17-494e-bfde-052b5568e7a0" />
+<img width="1280" height="818" alt="image" src="https://github.com/user-attachments/assets/394b18c2-4ce7-416c-93a5-af44ae95e15f" />
 
 ---
 ## 🚨 Low Stock & Expiration Alert System
